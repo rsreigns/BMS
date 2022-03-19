@@ -1,0 +1,40 @@
+.Container{
+background-color:white;
+height:99.5%;
+width:99.5%;
+}
+
+body{
+background-color:rgb(137, 52, 235);
+}
+
+.REbox{
+border-radius:15px;
+}
+.TopBar{
+
+padding:20px;
+
+}
+#SearchBox
+{
+margin-right:300px;
+}
+
+#buttons{float:right;}
+#b1     {margin-right:15px;}
+#b2     {margin-right:15px;}
+#b3     {margin-right:15px;}
+
+.SideBar
+{
+height:99.5%
+}
+
+.Split1
+{
+height:80%;
+width:60%
+padding-left:25px;
+background-color:rgba(211, 216, 230,0.5)
+}
